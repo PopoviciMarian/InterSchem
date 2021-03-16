@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1610654597 source:c:\users\marian popovici\desktop\interschem-f\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<cstring>
+	<vector>
+	<windows.h>
+	<map>
+	<stdio.h>
+	<bits/stdc++.h>
+	<fstream>
+	"tinyexpr.h"
+
+1608839523 c:\users\marian popovici\desktop\interschem-f\tinyexpr.h
+
+1603127130 source:c:\users\marian popovici\desktop\interschem-f\tinyexpr.c
+	"tinyexpr.h"
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<limits.h>
+
+1610655784 source:c:\users\andreea\desktop\interschem-f\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<cstring>
+	<vector>
+	<windows.h>
+	<map>
+	<stdio.h>
+	<bits/stdc++.h>
+	<fstream>
+	"tinyexpr.h"
+
+1608839523 c:\users\andreea\desktop\interschem-f\tinyexpr.h
+
+1603127130 source:c:\users\andreea\desktop\interschem-f\tinyexpr.c
+	"tinyexpr.h"
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<limits.h>
+
